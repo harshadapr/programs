@@ -51,5 +51,5 @@ bst.insert(10);
 bst.insert(5);
 bst.insert(15);
 
-console.log(bst.search(5)); // true
+// console.log(bst.search(5)); // true
 console.log(bst.search(20)); // false
