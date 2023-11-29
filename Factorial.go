@@ -1,6 +1,5 @@
 
 
-//Program to find Factorial of number
 package main
 import "fmt"
 
