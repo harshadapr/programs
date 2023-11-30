@@ -3,7 +3,6 @@
 package main
 import "fmt"
 
-/* Variable Declaration */
 var factVal uint64 = 1 // uint64 is the set of all unsigned 64-bit integers.
                        // Range: 0 through 18446744073709551615. 
 var i int = 1
