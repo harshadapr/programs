@@ -4,7 +4,7 @@ package main
 import "fmt"
 
 var factVal uint64 = 1 
-                       // Range: 0 through 18446744073709551615. 
+                       
 var i int = 1
 var n int
 
